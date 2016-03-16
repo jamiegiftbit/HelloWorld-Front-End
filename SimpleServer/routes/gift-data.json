@@ -1,0 +1,70 @@
+{
+  "gifts" : [
+    {
+      "id": 1,
+      "name": "$50 Mastercard",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/326/mastercardlogo29764-54e60ef6-ef3c-4162-a4ce-c2214e423185.jpg",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 5000
+    },
+    {
+      "id": 2,
+      "name": "Target eGift Card",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/184/target-d4d56e35-a746-40e3-9af9-1e06188400e1.PNG",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 6500
+    },
+    {
+      "id": 3,
+      "name": "NIKE Gift Card",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/158/nike-7a4264b2-d701-4823-b47f-d30347ef2229.png",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 2000
+    },
+    {
+      "id": 4,
+      "name": "$5.00 iTunes Code",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/106/iTunes-82a3879d-db17-4ca1-a821-cc919fe71a89.jpg",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 500
+    },
+    {
+      "id": 5,
+      "name": "Papa Gino's Pizzeria Gift Card",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/51/papaginos-c72d9e09-e109-475a-a9d0-06218e7676dc.png",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 10000
+    },
+    {
+      "id": 6,
+      "name": "$15 MasterCard",
+      "description": "The official description of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, exercitationem, tenetur. Laudantium corrupti similique natus.",
+      "redemption_instructions": "Official redemption instructions will appear here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi non laborum veritatis sequi maxime quasi quae ipsam dolorum aut saepe, hic repellat deleniti libero quibusdam suscipit nam omnis. Soluta.",
+      "terms_and_conditions": "The official terms and conditions of the gift will go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur accusantium rem reprehenderit repellendus corrupti! Itaque, nisi? Consequuntur, vitae dignissimos, dicta debitis maiores neque, inventore dolorum optio laborum dolore nobis unde voluptatibus numquam hic reiciendis porro. Necessitatibus ducimus reprehenderit rem vitae dolorum asperiores odit ipsa enim expedita illum, reiciendis omnis tempore suscipit beatae nostrum vero voluptate.",
+      "image_url": "https://uploadedimagestestbed.giftbit.com/326/mastercardlogo29764-c95694a9-cdab-4706-90a0-165a711105be.jpg",
+      "tax": "NOTAX",
+      "currencyisocode": "USD",
+      "price_in_cents": 1500
+    }
+  ]
+}

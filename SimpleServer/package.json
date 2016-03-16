@@ -1,0 +1,15 @@
+{
+  "name": "SampleServer",
+  "version": "1.0.0",
+  "description": "Set up for Giftbit sample API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giftbit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "file-system": "^2.2.1"
+  }
+}
